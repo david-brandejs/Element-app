@@ -1,0 +1,18 @@
+.modal {
+    background: rgba(0,0,0,0.6);
+    overflow-y: auto;
+}
+
+
+/* Feedback modal properties*/
+
+textarea {
+    resize: vertical;
+}
+
+hr { 
+    background-color: #e5e5e5;
+    border-color: #e5e5e5;
+    color: #e5e5e5;
+}
+
